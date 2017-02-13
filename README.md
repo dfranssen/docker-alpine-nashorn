@@ -1,2 +1,2 @@
 # docker-alpine-nashorn
-c
+Minimalistic Alpine docker image with nashorn (java 1.8) for scripting
